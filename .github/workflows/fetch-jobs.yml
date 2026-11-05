@@ -2,8 +2,8 @@ name: Fetch jobs
 
 on:
   schedule:
-    # ~45 min before the Claude task (05:55, 12:55, 18:55 Dubai = 01:55, 08:55, 14:55 UTC)
-    - cron: "10 1,8,14 * * *"
+    # Every 2 hours (GitHub can delay or skip scheduled runs, so run often to keep jobs.json fresh)
+    - cron: "17 */2 * * *"
   workflow_dispatch:
 
 permissions:
