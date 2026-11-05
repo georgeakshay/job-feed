@@ -21,7 +21,7 @@ ROLES = ["business analyst", "data analyst", "BI analyst", "power bi", "MIS exec
          "automation analyst"]
 QUERIES = ([f"linkedin.com/posts hiring {r} dubai" for r in ROLES] +
            [f"linkedin.com/posts {r} UAE send CV email" for r in ROLES])
-MAX_AGE_DAYS = 3         # keep posts published in the last N days (from the post page)
+MAX_AGE_DAYS = 7         # keep posts published in the last N days (from the post page)
 RESULTS_PER_QUERY = 20
 BACKENDS = "duckduckgo,bing,yahoo"  # engines that answered from GitHub in testing
 TEXT_LIMIT = 4000
