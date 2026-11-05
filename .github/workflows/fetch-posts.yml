@@ -2,8 +2,8 @@ name: Fetch hiring posts
 
 on:
   schedule:
-    # ~45 min before the Claude task (08:41, 12:41, 17:41 Dubai = 04:41, 08:41, 13:41 UTC)
-    - cron: "55 3,7,12 * * *"
+    # Every 2 hours (GitHub can delay or skip scheduled runs, so run often to keep posts.json fresh)
+    - cron: "47 */2 * * *"
   workflow_dispatch:
 
 permissions:
