@@ -95,7 +95,25 @@ def enrich(post):
         post["page_error"] = str(e)[:200]
 
 
+def probe():
+    """Check which search engines answer from this machine (for debugging)."""
+    out = []
+    for b in BACKENDS.split(","):
+        for q in ["linkedin.com/posts hiring business analyst dubai",
+                  "site:linkedin.com hiring business analyst dubai"]:
+            try:
+                res = DDGS().text(q, region="us-en", backend=b, max_results=10) or []
+                out.append({"backend": b, "query": q, "results": len(res),
+                            "linkedin_posts": sum(1 for r in res if POST_URL_RE.search(r.get("href", ""))),
+                            "sample": [r.get("href") for r in res[:3]]})
+            except Exception as e:
+                out.append({"backend": b, "query": q, "error": str(e)[:150]})
+            time.sleep(2)
+    return out
+
+
 def main():
+    probe_log = probe()
     found, log = search(QUERIES)
     posts = list(found.values())
     for p in posts:
@@ -112,6 +130,7 @@ def main():
         "total": len(posts),
         "with_email": sum(1 for p in posts if p["emails"]),
         "search_log": log,
+        "probe": probe_log,
         "posts": posts,
     }
     with open("posts.json", "w", encoding="utf-8") as f:
