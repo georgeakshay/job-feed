@@ -33,24 +33,24 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
 
 
 def search(queries):
+    """Ask each search engine separately (combined calls returned nothing in testing)."""
     found, log = {}, []
-    ddgs = DDGS()
     for q in queries:
-        try:
-            res = list(ddgs.text(q, region="us-en", safesearch="off", backend=BACKENDS,
-                                 max_results=RESULTS_PER_QUERY) or [])
-            n = 0
-            for r in res:
-                url = (r.get("href") or r.get("url") or "").split("?")[0]
-                if not POST_URL_RE.search(url):
-                    continue
-                n += 1
-                found.setdefault(url, {"linkedinUrl": url, "search_title": r.get("title"),
-                                       "snippet": r.get("body"), "query": q})
-            log.append({"query": q, "results": len(res), "posts": n})
-        except Exception as e:
-            log.append({"query": q, "error": str(e)[:200]})
-        time.sleep(4)
+        for b in BACKENDS.split(","):
+            try:
+                res = DDGS().text(q, region="us-en", backend=b, max_results=RESULTS_PER_QUERY) or []
+                n = 0
+                for r in res:
+                    url = (r.get("href") or r.get("url") or "").split("?")[0]
+                    if not POST_URL_RE.search(url):
+                        continue
+                    n += 1
+                    found.setdefault(url, {"linkedinUrl": url, "search_title": r.get("title"),
+                                           "snippet": r.get("body"), "query": q, "engine": b})
+                log.append({"query": q, "engine": b, "results": len(res), "posts": n})
+            except Exception as e:
+                log.append({"query": q, "engine": b, "error": str(e)[:120]})
+            time.sleep(3)
     return found, log
 
 
