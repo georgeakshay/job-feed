@@ -1,5 +1,5 @@
 {
- "generated_at_utc": "2026-11-05T06:37:44+00:00",
+ "generated_at_utc": "2026-11-05T06:40:08+00:00",
  "source": "duckduckgo",
  "timelimit": "w",
  "total": 0,
@@ -12,39 +12,39 @@
   },
   {
    "query": "site:linkedin.com/posts hiring \"data analyst\" Dubai CV",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20%22data%20analyst%22%20Dubai%2"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts hiring \"BI analyst\" OR \"power bi\" Dubai CV",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20%22BI%20analyst%22%20OR%20%22p"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts hiring \"MIS\" Dubai CV",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20%22MIS%22%20Dubai%20CV) > erro"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts hiring \"reporting analyst\" UAE CV",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20%22reporting%20analyst%22%20UA"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts hiring \"revenue analyst\" OR \"commercial analyst\" Dubai",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20%22revenue%20analyst%22%20OR%2"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts hiring odoo Dubai CV",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20hiring%20odoo%20Dubai%20CV) > error res"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts \"business analyst\" UAE \"send your CV\"",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20%22business%20analyst%22%20UAE%20%22sen"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts \"data analyst\" UAE \"share your CV\"",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20%22data%20analyst%22%20UAE%20%22share%2"
+   "error": "No results found."
   },
   {
    "query": "site:linkedin.com/posts \"we are hiring\" analyst Dubai \"@\"",
-   "error": "DNSError: DNSError('error sending request for url (https://wt.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=site%3Alinkedin.com/posts%20%22we%20are%20hiring%22%20analyst%20Dub"
+   "error": "No results found."
   }
  ],
  "posts": []
