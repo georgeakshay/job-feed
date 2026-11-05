@@ -1,51 +1,154 @@
 {
- "generated_at_utc": "2026-11-05T06:40:08+00:00",
+ "generated_at_utc": "2026-11-05T06:45:58+00:00",
  "source": "duckduckgo",
  "timelimit": "w",
- "total": 0,
- "with_email": 0,
+ "total": 1,
+ "with_email": 1,
  "search_log": [
   {
    "query": "site:linkedin.com/posts hiring \"business analyst\" Dubai CV",
+   "error": "No results found."
+  },
+  {
+   "query": "site:linkedin.com/posts hiring \"data analyst\" Dubai CV",
+   "results": 3,
+   "posts": 0
+  },
+  {
+   "query": "site:linkedin.com/posts hiring \"BI analyst\" OR \"power bi\" Dubai CV",
+   "results": 9,
+   "posts": 0
+  },
+  {
+   "query": "site:linkedin.com/posts hiring \"MIS\" Dubai CV",
    "results": 1,
    "posts": 0
   },
   {
-   "query": "site:linkedin.com/posts hiring \"data analyst\" Dubai CV",
-   "error": "No results found."
-  },
-  {
-   "query": "site:linkedin.com/posts hiring \"BI analyst\" OR \"power bi\" Dubai CV",
-   "error": "No results found."
-  },
-  {
-   "query": "site:linkedin.com/posts hiring \"MIS\" Dubai CV",
-   "error": "No results found."
-  },
-  {
    "query": "site:linkedin.com/posts hiring \"reporting analyst\" UAE CV",
-   "error": "No results found."
+   "results": 1,
+   "posts": 0
   },
   {
    "query": "site:linkedin.com/posts hiring \"revenue analyst\" OR \"commercial analyst\" Dubai",
-   "error": "No results found."
+   "results": 2,
+   "posts": 0
   },
   {
    "query": "site:linkedin.com/posts hiring odoo Dubai CV",
-   "error": "No results found."
+   "results": 1,
+   "posts": 1
   },
   {
    "query": "site:linkedin.com/posts \"business analyst\" UAE \"send your CV\"",
-   "error": "No results found."
+   "results": 2,
+   "posts": 0
   },
   {
    "query": "site:linkedin.com/posts \"data analyst\" UAE \"share your CV\"",
-   "error": "No results found."
+   "results": 3,
+   "posts": 0
   },
   {
    "query": "site:linkedin.com/posts \"we are hiring\" analyst Dubai \"@\"",
    "error": "No results found."
   }
  ],
- "posts": []
+ "probe": [
+  {
+   "backend": "duckduckgo",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "results": 10,
+   "linkedin_posts": 1,
+   "sample": [
+    "https://www.linkedin.com/jobs/business-analyst-jobs-united-arab-emirates",
+    "https://www.linkedin.com/posts/hrdiksha_nowhiring-businessanalyst-dubaijobs-activity-7370129947035770880-tuLT",
+    "https://www.linkedin.com/jobs/view/business-analyst-at-mckinsey-company-3286639682?pageNum=0"
+   ]
+  },
+  {
+   "backend": "duckduckgo",
+   "query": "site:linkedin.com hiring business analyst dubai",
+   "error": "No results found."
+  },
+  {
+   "backend": "bing",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "results": 7,
+   "linkedin_posts": 1,
+   "sample": [
+    "https://www.linkedin.com/jobs/business-analyst-jobs-united-arab-emirates",
+    "https://www.linkedin.com/posts/hrdiksha_nowhiring-businessanalyst-dubaijobs-activity-7370129947035770880-tuLT",
+    "https://www.linkedin.com/jobs/view/4448014826/"
+   ]
+  },
+  {
+   "backend": "bing",
+   "query": "site:linkedin.com hiring business analyst dubai",
+   "results": 7,
+   "linkedin_posts": 0,
+   "sample": [
+    "https://www.linkedin.com/jobs/business-analyst-jobs-united-arab-emirates",
+    "https://www.linkedin.com/jobs/view/4448014826/",
+    "https://ae.linkedin.com/jobs/analyst-jobs"
+   ]
+  },
+  {
+   "backend": "brave",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "error": "No results found."
+  },
+  {
+   "backend": "brave",
+   "query": "site:linkedin.com hiring business analyst dubai",
+   "error": "No results found."
+  },
+  {
+   "backend": "yahoo",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "results": 7,
+   "linkedin_posts": 1,
+   "sample": [
+    "https://www.linkedin.com/jobs/business-analyst-jobs-united-arab-emirates",
+    "https://www.linkedin.com/posts/hrdiksha_nowhiring-businessanalyst-dubaijobs-activity-7370129947035770880-tuLT",
+    "https://www.linkedin.com/jobs/view/4448014826/"
+   ]
+  },
+  {
+   "backend": "yahoo",
+   "query": "site:linkedin.com hiring business analyst dubai",
+   "results": 7,
+   "linkedin_posts": 0,
+   "sample": [
+    "https://www.linkedin.com/jobs/business-analyst-jobs-united-arab-emirates",
+    "https://www.linkedin.com/jobs/view/4448014826/",
+    "https://ae.linkedin.com/jobs/analyst-jobs"
+   ]
+  },
+  {
+   "backend": "mojeek",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "error": "No results found."
+  },
+  {
+   "backend": "mojeek",
+   "query": "site:linkedin.com hiring business analyst dubai",
+   "error": "No results found."
+  }
+ ],
+ "posts": [
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/shifa-basheer-80ab68208_urgenthiring-creditcontroller-dubaijobs-activity-7523681416195403777--_4U",
+   "search_title": "#urgenthiring #creditcontroller #dubaijobs #uaejobs # ...",
+   "snippet": "1 day ago · 🚨 URGENT HIRING – CREDIT CONTROLLER 📍 Location: Dubai, UAE We are looking for an experienced Credit Controller to join our client’s team in Dubai. Key Responsibilities: * Manage customer ...",
+   "query": "site:linkedin.com/posts hiring odoo Dubai CV",
+   "page_status": 200,
+   "postedAt": "2026-11-04T09:43:52.861Z",
+   "author": "Shifa Basheer",
+   "content": "🚨 URGENT HIRING – CREDIT CONTROLLER\n\n📍 Location: Dubai, UAE\n\nWe are looking for an experienced Credit Controller to join our client’s team in Dubai.\n\nKey Responsibilities:\n\n* Manage customer accounts and follow up on overdue payments.\n* Handle outstanding invoices and negotiate payment plans.\n* Prepare collection and aging reports.\n* Coordinate account reconciliation with Finance.\n* Handle debt recovery, court notices, and legal documentation.\n* Liaise with UAE authorities and law firms.\n* Assist with Arabic–English document translation.\n* Maintain legal and collection records.\n\nRequirements:\n\n* Bachelor’s degree in a relevant field.\n* 3–5 years of Credit Control / Collections experience.\n* Knowledge of UAE legal procedures.\n* Arabic and English proficiency preferred.\n* Knowledge of MS Office and ERP (Odoo).\n* Valid UAE Driving License is mandatory.\n\n📩 Interested candidates can share their CV at:\nrecruitmentnexaxpert25@gmail.com\n\n📅 Posted: 04 November 2026\n\n#UrgentHiring #CreditController #DubaiJobs #UAEJobs #CreditControl #AccountsReceivable #Collections #DebtRecovery #FinanceJobs #AccountingJobs #LegalDocumentation #DubaiVacancies #UAEHiring #NexaXpert #RecruitmentUAE",
+   "emails": [
+    "recruitmentnexaxpert25@gmail.com"
+   ]
+  }
+ ]
 }
