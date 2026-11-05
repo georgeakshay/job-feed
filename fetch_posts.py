@@ -16,21 +16,14 @@ try:
 except ImportError:  # older package name
     from duckduckgo_search import DDGS
 
-QUERIES = [
-    'site:linkedin.com/posts hiring "business analyst" Dubai CV',
-    'site:linkedin.com/posts hiring "data analyst" Dubai CV',
-    'site:linkedin.com/posts hiring "BI analyst" OR "power bi" Dubai CV',
-    'site:linkedin.com/posts hiring "MIS" Dubai CV',
-    'site:linkedin.com/posts hiring "reporting analyst" UAE CV',
-    'site:linkedin.com/posts hiring "revenue analyst" OR "commercial analyst" Dubai',
-    'site:linkedin.com/posts hiring odoo Dubai CV',
-    'site:linkedin.com/posts "business analyst" UAE "send your CV"',
-    'site:linkedin.com/posts "data analyst" UAE "share your CV"',
-    'site:linkedin.com/posts "we are hiring" analyst Dubai "@"',
-]
-TIMELIMIT = "w"          # d = past day, w = past week
+ROLES = ["business analyst", "data analyst", "BI analyst", "power bi", "MIS executive",
+         "reporting analyst", "odoo", "revenue analyst", "business systems analyst",
+         "automation analyst"]
+QUERIES = ([f"linkedin.com/posts hiring {r} dubai" for r in ROLES] +
+           [f"linkedin.com/posts {r} UAE send CV email" for r in ROLES])
+MAX_AGE_DAYS = 3         # keep posts published in the last N days (from the post page)
 RESULTS_PER_QUERY = 20
-BACKENDS = "duckduckgo,bing,brave,yahoo,mojeek"  # web search engines only
+BACKENDS = "duckduckgo,bing,yahoo"  # engines that answered from GitHub in testing
 TEXT_LIMIT = 4000
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 POST_URL_RE = re.compile(r"linkedin\.com/(posts|feed/update)/", re.I)
@@ -45,7 +38,7 @@ def search(queries):
     for q in queries:
         try:
             res = list(ddgs.text(q, region="us-en", safesearch="off", backend=BACKENDS,
-                                 timelimit=TIMELIMIT, max_results=RESULTS_PER_QUERY) or [])
+                                 max_results=RESULTS_PER_QUERY) or [])
             n = 0
             for r in res:
                 url = (r.get("href") or r.get("url") or "").split("?")[0]
@@ -95,25 +88,7 @@ def enrich(post):
         post["page_error"] = str(e)[:200]
 
 
-def probe():
-    """Check which search engines answer from this machine (for debugging)."""
-    out = []
-    for b in BACKENDS.split(","):
-        for q in ["linkedin.com/posts hiring business analyst dubai",
-                  "site:linkedin.com hiring business analyst dubai"]:
-            try:
-                res = DDGS().text(q, region="us-en", backend=b, max_results=10) or []
-                out.append({"backend": b, "query": q, "results": len(res),
-                            "linkedin_posts": sum(1 for r in res if POST_URL_RE.search(r.get("href", ""))),
-                            "sample": [r.get("href") for r in res[:3]]})
-            except Exception as e:
-                out.append({"backend": b, "query": q, "error": str(e)[:150]})
-            time.sleep(2)
-    return out
-
-
 def main():
-    probe_log = probe()
     found, log = search(QUERIES)
     posts = list(found.values())
     for p in posts:
@@ -123,14 +98,23 @@ def main():
                               if not e.lower().endswith((".png", ".jpg"))})
         time.sleep(2)
 
+    cutoff = datetime.now(timezone.utc).timestamp() - MAX_AGE_DAYS * 86400
+    def recent(p):
+        try:
+            return datetime.fromisoformat(p["postedAt"].replace("Z", "+00:00")).timestamp() >= cutoff
+        except Exception:
+            return True  # unknown date: keep, the Claude task decides
+    found_total = len(posts)
+    posts = [p for p in posts if recent(p)]
+
     out = {
+        "found_before_age_filter": found_total,
         "generated_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": "duckduckgo",
-        "timelimit": TIMELIMIT,
+        "max_age_days": MAX_AGE_DAYS,
         "total": len(posts),
         "with_email": sum(1 for p in posts if p["emails"]),
         "search_log": log,
-        "probe": probe_log,
         "posts": posts,
     }
     with open("posts.json", "w", encoding="utf-8") as f:
