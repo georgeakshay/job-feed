@@ -30,6 +30,7 @@ QUERIES = [
 ]
 TIMELIMIT = "w"          # d = past day, w = past week
 RESULTS_PER_QUERY = 20
+BACKENDS = "duckduckgo,bing,brave,yahoo,mojeek"  # web search engines only
 TEXT_LIMIT = 4000
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 POST_URL_RE = re.compile(r"linkedin\.com/(posts|feed/update)/", re.I)
@@ -43,7 +44,7 @@ def search(queries):
     ddgs = DDGS()
     for q in queries:
         try:
-            res = list(ddgs.text(q, region="wt-wt", safesearch="off",
+            res = list(ddgs.text(q, region="us-en", safesearch="off", backend=BACKENDS,
                                  timelimit=TIMELIMIT, max_results=RESULTS_PER_QUERY) or [])
             n = 0
             for r in res:
