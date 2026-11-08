@@ -1,10 +1,10 @@
 {
- "found_before_age_filter": 24,
- "generated_at_utc": "2026-11-08T13:59:46+00:00",
+ "found_before_age_filter": 23,
+ "generated_at_utc": "2026-11-08T19:15:41+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 0,
- "with_email": 0,
+ "total": 2,
+ "with_email": 1,
  "search_log": [
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -15,13 +15,12 @@
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 2
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -37,7 +36,8 @@
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
@@ -47,276 +47,275 @@
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "bing",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "engine": "bing",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "bing",
    "results": 7,
    "posts": 1
   },
   {
-   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "yahoo",
    "results": 7,
    "posts": 1
   },
   {
-   "query": "linkedin.com/posts hiring power bi dubai",
+   "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "duckduckgo",
    "error": "No results found."
   },
   {
-   "query": "linkedin.com/posts hiring power bi dubai",
+   "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "bing",
    "error": "No results found."
   },
   {
-   "query": "linkedin.com/posts hiring power bi dubai",
+   "query": "linkedin.com/posts hiring odoo dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 5
+  },
+  {
+   "query": "linkedin.com/posts hiring revenue analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring revenue analyst dubai",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring revenue analyst dubai",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring business systems analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring business systems analyst dubai",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring business systems analyst dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts hiring automation analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring automation analyst dubai",
+   "engine": "bing",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts hiring automation analyst dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts revenue analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts revenue analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
    "posts": 4
   },
   {
-   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
   },
   {
-   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
-   "posts": 6
+   "posts": 2
   },
   {
-   "query": "linkedin.com/posts hiring MIS executive dubai",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts hiring odoo dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring odoo dubai",
-   "engine": "bing",
-   "results": 7,
-   "posts": 5
-  },
-  {
-   "query": "linkedin.com/posts hiring odoo dubai",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 5
-  },
-  {
-   "query": "linkedin.com/posts hiring revenue analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring revenue analyst dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring revenue analyst dubai",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 0
-  },
-  {
-   "query": "linkedin.com/posts hiring business systems analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring business systems analyst dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring business systems analyst dubai",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 0
-  },
-  {
-   "query": "linkedin.com/posts hiring automation analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring automation analyst dubai",
-   "engine": "bing",
-   "results": 7,
-   "posts": 0
-  },
-  {
-   "query": "linkedin.com/posts hiring automation analyst dubai",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
    "posts": 2
   },
   {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 0
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 0
-  },
-  {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts revenue analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts revenue analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts revenue analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts business systems analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business systems analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business systems analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 0
-  },
-  {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -324,15 +323,40 @@
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "bing",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   }
  ],
- "posts": []
+ "posts": [
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/nirutrade_dubai-odoo-hiringdubai-activity-7524781951107411968-aXAd",
+   "search_title": "#dubai #odoo #hiringdubai #dubaijobs # ... - LinkedIn",
+   "snippet": "📣📣📣 WE'RE HIRING - Accountant in #Dubai Your main job is to keep Niru's books in #Odoo complete and closed on time every month, from daily posting to bank reconciliations and VAT returns ...",
+   "query": "linkedin.com/posts hiring odoo dubai",
+   "engine": "yahoo",
+   "page_status": 200,
+   "postedAt": "2026-11-07T10:37:00.830Z",
+   "author": "Niru",
+   "content": "📣📣📣 WE'RE HIRING - Accountant in #Dubai\n\nYour main job is to keep Niru's books in #Odoo complete and closed on time every month, from daily posting to bank reconciliations and VAT returns.\n\nAccounting degree and strong Excel skills is required to be considered for this role.\n\n👉 Apply here: https://lnkd.in/e_F8QW_C\n\n~~~~~~~~~~~~~~~~\n#hiringdubai #dubaijobs #accountantjobs #dubaiaccountantjobs #dubaiaccountsjob",
+   "emails": []
+  },
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/akhil-dev-b8b7a1344_hiring-dataanalyst-powerbi-share-7523361625769132032-WUdK",
+   "search_title": "#hiring #dataanalyst #powerbi #sql #businessintelligence # ...",
+   "snippet": "WE ARE HIRING | DATA ANALYST – AJMAN, UAE Salary: AED 14,500/month Ramtech is looking for a skilled Data Analyst to support a government authority in Ajman through data analysis, Power BI ...",
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "yahoo",
+   "page_status": 200,
+   "postedAt": "2026-11-03T12:33:09.615Z",
+   "author": "Akhil Dev",
+   "content": "WE ARE HIRING | DATA ANALYST – AJMAN, UAE\nSalary: AED 14,500/month\n\nRamtech is looking for a skilled Data Analyst to support a government authority in Ajman through data analysis, Power BI dashboards, management reporting and data quality management.\n\nKey Requirements:\n2–5 years of experience in Data Analysis / Business Intelligence.\nStrong hands-on experience with Power BI and SQL.\nExperience developing dashboards, reports, KPIs and data visualizations.\nGood knowledge of Excel, data cleaning, validation and ETL/data transformation.\nExperience analysing enterprise system data and preparing management reports.\nKnowledge of Python/R, data modelling and API integration is an advantage.\nPreferred Candidate Profile:\nCandidates with prior experience working on UAE Government Entity projects or in Audit, Regulatory, Compliance or Public Sector environments will be highly preferred.\n\n📍 Location: Ajman, UAE\n💰 Salary: AED 14,500/month\n📧 Apply: adev@ramtech-corp.com\n📝 Email Subject: Data Analyst – Ajman\n📱 WhatsApp: 058 145 6683\n\nInterested candidates who meet the requirements are encouraged to share their updated CV.\n\nPlease share this opportunity with relevant Data Analytics and Power BI professionals.\n\n#Hiring #DataAnalyst #PowerBI #SQL #BusinessIntelligence #BIAnalyst #PowerBIDeveloper #DataAnalytics #DataVisualization #ETL #DataQuality #DataModelling #MISAnalyst #UAEJobs #DubaiJobs #AjmanJobs #AbuDhabiJobs #UAEHiring #GovernmentJobs #PublicSectorJobs #AuditAnalytics #RegulatoryCompliance #AnalyticsJobs #Ramtech",
+   "emails": [
+    "adev@ramtech-corp.com"
+   ]
+  }
+ ]
 }
