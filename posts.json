@@ -1,10 +1,10 @@
 {
- "found_before_age_filter": 21,
- "generated_at_utc": "2026-11-09T07:19:19+00:00",
+ "found_before_age_filter": 25,
+ "generated_at_utc": "2026-11-09T19:18:10+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 0,
- "with_email": 0,
+ "total": 1,
+ "with_email": 1,
  "search_log": [
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -14,13 +14,14 @@
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 2
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -30,43 +31,45 @@
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring BI analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring BI analyst dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring BI analyst dubai",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring power bi dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring power bi dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "yahoo",
    "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "bing",
+   "results": 7,
    "posts": 2
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "yahoo",
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
@@ -83,7 +86,7 @@
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 2
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -93,8 +96,7 @@
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -142,7 +144,8 @@
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
@@ -164,7 +167,8 @@
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
@@ -192,12 +196,13 @@
    "query": "linkedin.com/posts data analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
-   "posts": 2
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts BI analyst UAE send CV email",
@@ -229,23 +234,24 @@
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "bing",
    "results": 7,
    "posts": 2
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
+   "engine": "duckduckgo",
    "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts reporting analyst UAE send CV email",
@@ -261,8 +267,7 @@
   {
    "query": "linkedin.com/posts reporting analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
@@ -277,7 +282,8 @@
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -287,16 +293,15 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts revenue analyst UAE send CV email",
+   "engine": "yahoo",
    "results": 7,
    "posts": 4
   },
   {
-   "query": "linkedin.com/posts revenue analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 4
-  },
-  {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -304,14 +309,12 @@
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "bing",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
@@ -321,13 +324,30 @@
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   }
  ],
- "posts": []
+ "posts": [
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/hiring-dubai-businessanalyst-share-7525427542053531648-5Xts",
+   "search_title": "#hiring #dubai #businessanalyst #fmcg # ... - LinkedIn",
+   "snippet": "We’re Hiring in Dubai | Business Analyst – FMCG Meethaq Manpower is seeking a Business Analyst for a multinational FMCG company in the confectionery and sweet snacks sector. Based on-site in ...",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-09T05:22:21.963Z",
+   "author": "Meethaq Manpower",
+   "content": "We’re Hiring in Dubai | Business Analyst – FMCG\n\nMeethaq Manpower is seeking a Business Analyst for a multinational FMCG company in the confectionery and sweet snacks sector. Based on-site in Dubai, the role supports sales and commercial strategy across the Lower Gulf by analysing performance across brands and customer channels.\n\nThe ideal candidate will have at least 3 years of FMCG commercial experience, with skills in sales reporting, budget and target tracking, and profitability analysis. The role requires proficiency in Excel and PowerPoint, along with knowledge of SAP and Power BI.\n\nA university degree and fluency in English are required. Candidates should be available to start immediately.\n\nHow to apply\nSend your CV to careers@meethaq.ae and use Business Analyst – FMCG as the subject line.\nFor the full job description and to apply online, visit: https://lnkd.in/dBSbkxUs\n\n#Hiring #Dubai #BusinessAnalyst #FMCG #MeethaqManpower",
+   "emails": [
+    "careers@meethaq.ae"
+   ]
+  }
+ ]
 }
