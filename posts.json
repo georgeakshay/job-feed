@@ -1,10 +1,10 @@
 {
- "found_before_age_filter": 28,
- "generated_at_utc": "2026-11-12T01:07:25+00:00",
+ "found_before_age_filter": 19,
+ "generated_at_utc": "2026-11-12T10:26:48+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 0,
- "with_email": 0,
+ "total": 2,
+ "with_email": 2,
  "search_log": [
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -14,14 +14,12 @@
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -47,28 +45,27 @@
   },
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
-   "engine": "bing",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts hiring BI analyst dubai",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts hiring power bi dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "bing",
    "results": 7,
    "posts": 3
   },
   {
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 3
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
    "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "yahoo",
    "error": "No results found."
@@ -86,40 +83,39 @@
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "bing",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring odoo dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring odoo dubai",
+   "engine": "bing",
    "results": 7,
    "posts": 6
   },
   {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts hiring reporting analyst dubai",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring odoo dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring odoo dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
    "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 5
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
@@ -129,7 +125,8 @@
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
@@ -151,24 +148,23 @@
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring automation analyst dubai",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts hiring automation analyst dubai",
+   "engine": "bing",
    "results": 7,
    "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring automation analyst dubai",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
@@ -184,7 +180,8 @@
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
@@ -200,8 +197,7 @@
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts BI analyst UAE send CV email",
@@ -228,13 +224,13 @@
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
@@ -243,34 +239,33 @@
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
    "posts": 1
   },
   {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
    "engine": "yahoo",
    "results": 7,
    "posts": 1
   },
   {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 0
+  },
+  {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -284,7 +279,8 @@
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -300,7 +296,8 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
@@ -315,7 +312,8 @@
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
@@ -335,5 +333,34 @@
    "posts": 1
   }
  ],
- "posts": []
+ "posts": [
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/links-uae-consultants_hiring-hiring-datascientistanalystdatamodellingbi-activity-7526146940594688000-De5E",
+   "search_title": "#hiring #hiring #datascientistanalystdatamodellingbi # ...",
+   "snippet": "Links Consultants is #Hiring Position: Data Scientist / Analyst – Data Modelling & BI (Emirati Talent) Location: Dubai, UAE Industry: Data / Analytics Eligibility: UAE Nationals only. Better ...",
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-11T05:00:59.685Z",
+   "author": "Links Consultants",
+   "content": "Links Consultants is #Hiring\n \n Position: Data Scientist / Analyst – Data Modelling & BI (Emirati Talent)\n Location: Dubai, UAE\n Industry: Data / Analytics\n Eligibility: UAE Nationals only.\n \n Better decisions start with better data. This role combines modelling, business intelligence, and practical analysis.\n \n Key Responsibilities:\n • Develop data models, dashboards, and BI reports.\n • Analyse datasets and identify actionable trends.\n • Collaborate with stakeholders on reporting requirements.\n \n Requirements:\n • Data analysis, SQL/BI, or modelling knowledge advantageous.\n • Strong analytical and communication skills.\n \n Interested candidates can send their updated CV to:\n recruitment@linksuae.ae\n \n Follow Links Consultants for the latest career opportunities across the UAE and GCC.\n \n #Hiring #DataScientistAnalystDataModellingBI #DubaiJobs #UAEJobs #NowHiring #LinksConsultants",
+   "emails": [
+    "recruitment@linksuae.ae"
+   ]
+  },
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/parvathi-m-223130205_hiring-dubaijobs-uaejobs-share-7526546349908135937-YWCG",
+   "search_title": "#hiring #dubaijobs #uaejobs #accountantjobs # ... - LinkedIn",
+   "snippet": "📢 WE ARE HIRING – FEMALE ACCOUNTANT | DUBAI, UAE Position: Accountant – Accounts Receivable & Credit Control Location: Dubai, UAE Experience: Minimum 3 Years Employment Type: Full-Time ...",
+   "query": "linkedin.com/posts hiring odoo dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-12T07:28:06.427Z",
+   "author": "PARVATHI M",
+   "content": "📢 WE ARE HIRING – FEMALE ACCOUNTANT | DUBAI, UAE\nPosition: Accountant – Accounts Receivable & Credit Control\nLocation: Dubai, UAE\nExperience: Minimum 3 Years\nEmployment Type: Full-Time\nSoftware: Odoo 17 & Tally\nSalary: Negotiable based on experience and qualifications\nJob Overview\nWe are looking for a dedicated, detail-oriented and experienced Accountant with strong knowledge of Accounts Receivable (AR), Credit Control and General Accounting Operations.\nThe ideal candidate should have practical experience working with Odoo 17 and Tally, excellent communication skills and the ability to manage customer accounts, payment collections and financial documentation efficiently.\nKey Responsibilities\n1. Accounts Receivable & Credit Control\nMonitor customer outstanding balances and payment collections.\nFollow up with customers for timely payment.\nPrepare and maintain AR ageing reports.\nReconcile customer accounts and resolve discrepancies.\nMonitor customer credit limits and payment terms.\n2. Customer Documentation\nMaintain customer files and financial documentation.\nVerify and update customer account details.\nMaintain invoices, receipts and account statements.\nObtain customer balance confirmations.\n3. Customer Communication\nSend payment reminders and account statements.\nCoordinate with sales teams regarding overdue payments.\nHandle customer queries related to invoices and payments.\n4. Petty Cash Management\nMaintain daily petty cash records.\nRecord transactions and verify supporting documents.\nPrepare petty cash reconciliation reports.\n5. Accounting & Software\nMaintain accounting transactions using Odoo 17 and Tally.\nRecord customer receipts and allocate payments.\nAssist with bank and customer account reconciliations.\nPrepare periodic accounting reports.\nRequired Qualifications & Skills\nBachelor's degree in Commerce, Accounting or Finance.\nMinimum 3 years of relevant accounting experience.\nPractical working knowledge of Odoo 17 and Tally.\nStrong understanding of AR and Credit Control.\nExperience in customer reconciliation and ageing reports.\nGood command of written and spoken English.\nProficiency in MS Excel and MS Office.\nExcellent communication, analytical and problem-solving skills.\nPreferred Candidate Profile\nFemale candidates preferred.\nStrong attention to detail and accuracy.\nHonest, responsible and well-organized.\nProactive in payment follow-ups.\nAbility to work independently and meet deadlines.\n📩 How to Apply?\nInterested candidates are requested to share their updated CV at:\np.hr@crystalrbr.com\nEmail Subject: Application – Accountant (AR & Credit Control) – Dubai\nPlease share this opportunity with suitable candidates in your network.\n#Hiring #DubaiJobs #UAEJobs #AccountantJobs #FemaleAccountant #AccountsReceivable #CreditControl #FinanceJobs #AccountingJobs #Odoo17 #Tally #ARJobs #UrgentHiring #DubaiCareers #Recruitment #CrystalIndustries",
+   "emails": [
+    "p.hr@crystalrbr.com"
+   ]
+  }
+ ]
 }
