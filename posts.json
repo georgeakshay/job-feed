@@ -1,10 +1,10 @@
 {
- "found_before_age_filter": 0,
- "generated_at_utc": "2026-11-13T07:26:34+00:00",
+ "found_before_age_filter": 29,
+ "generated_at_utc": "2026-11-13T16:50:26+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 0,
- "with_email": 0,
+ "total": 3,
+ "with_email": 2,
  "search_log": [
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -14,12 +14,14 @@
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -29,12 +31,14 @@
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
@@ -49,7 +53,8 @@
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -59,7 +64,8 @@
   {
    "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -79,7 +85,8 @@
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 7
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -89,12 +96,14 @@
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring odoo dubai",
@@ -124,7 +133,8 @@
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
@@ -134,12 +144,14 @@
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
@@ -149,7 +161,8 @@
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
@@ -164,12 +177,14 @@
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
@@ -179,12 +194,14 @@
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts BI analyst UAE send CV email",
@@ -199,7 +216,8 @@
   {
    "query": "linkedin.com/posts BI analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
@@ -209,12 +227,14 @@
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
@@ -244,7 +264,8 @@
   {
    "query": "linkedin.com/posts reporting analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
@@ -254,12 +275,14 @@
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -269,12 +292,14 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
@@ -289,7 +314,8 @@
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
@@ -307,5 +333,46 @@
    "error": "No results found."
   }
  ],
- "posts": []
+ "posts": [
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/aaratech-hiring-businessanalyst-share-7525600233725292544-M0Gd",
+   "search_title": "Business Analyst Job at AaraTech - LinkedIn",
+   "snippet": "WE’RE HIRING – BUSINESS ANALYST AaraTech is looking for a motivated and analytical Business Analyst to join our team! Are you passionate about understanding business needs, gathering ...",
+   "query": "linkedin.com/posts hiring business analyst dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-09T16:48:35.355Z",
+   "author": "AARATECH",
+   "content": "WE’RE HIRING – BUSINESS ANALYST\nAaraTech is looking for a motivated and analytical Business Analyst to join our team!\nAre you passionate about understanding business needs, gathering requirements, analyzing data, and delivering effective solutions? This is an opportunity to turn business challenges into clear requirements and impactful results.\nPOSITION: Business Analyst\nKEY RESPONSIBILITIES\n• Gather, analyze, and document business requirements.\n• Understand stakeholder needs and translate them into clear functional requirements.\n• Create user stories, use cases, and process documentation.\n• Analyze existing business processes and identify areas for improvement.\n• Develop process maps and workflows to support business objectives.\n• Work with stakeholders and technical teams to ensure alignment.\n• Use data and SQL queries to support analysis and informed decision-making.\n• Collaborate with project teams to support solution delivery.\nKEY SKILLS & REQUIREMENTS\n• Requirements Gathering and Analysis\n• SQL and Data Analysis\n• Business Process Mapping\n• Stakeholder Communication\n• Documentation and Reporting\n• Problem-Solving and Critical Thinking\n• Functional and Business Analysis\n• Cross-Functional Collaboration\nWHAT WE’RE LOOKING FOR\n• Strong analytical and problem-solving abilities.\n• Excellent verbal and written communication skills.\n• Ability to understand business challenges and recommend practical solutions.\n• Good knowledge of business processes and requirements documentation.\n• Ability to work effectively with business and technical teams.\nREADY FOR YOUR NEXT CAREER OPPORTUNITY?\nJoin AaraTech and help transform business needs into meaningful solutions.\nApply now by sending your updated resume to:\nEmail: recruiter@aaratechinc.com\nWebsite: www.aaratech.com\nTake the next step in your Business Analyst career with AaraTech!\n#AaraTech #Hiring #BusinessAnalyst #BusinessAnalystJobs #NowHiring #BusinessAnalysis #RequirementsGathering #SQL #ProcessMapping #StakeholderManagement #DataAnalysis #BusinessProcess #ITJobs #CareerOpportunities #TechCareers",
+   "emails": [
+    "recruiter@aaratechinc.com"
+   ]
+  },
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/glenlina_powerbi-hiring-dubaijobs-share-7525764793979301888-p9cI",
+   "search_title": "#powerbi #hiring #dubaijobs #dataanalytics # ... - LinkedIn",
+   "snippet": "We are looking for a Power BI Specialist in Bangalore !! Not just someone who can build dashboards. We need someone who can own the complete BI lifecycle, from SQL and data modelling through...",
+   "query": "linkedin.com/posts hiring power bi dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-10T03:42:29.363Z",
+   "author": "Glen D'Souza",
+   "content": "We are looking for a Power BI Specialist in Bangalore !!\nNot just someone who can build dashboards.\nWe need someone who can own the complete BI lifecycle, from SQL and data modelling through DAX, visualization, refresh automation, troubleshooting and business adoption.\nCore skills we are looking for:\n-Power BI Desktop & Service\n-Advanced DAX & Power Query\n-Strong SQL & Data modelling\n-ERP/CRM data integration\n-Gateways & scheduled refresh\n-Row-Level Security\n-Dashboard performance optimization\n-Data validation & troubleshooting\n-Strong business understanding\n-Integrating AI-driven insights\n-Developing natural-language Q&A and conversational analytics experiences\n-Exploring AI-assisted forecasting\n🎓 PL-300 certification and exposure to Microsoft Fabric .\n\nApply or share this post with someone who would be a great fit. share your CV with  parthiban.moorthy@centena.com.\n#PowerBI #Hiring #DubaiJobs #DataAnalytics #BusinessIntelligence #SQL #MicrosoftFabric parthiban.moorthy@centena.com.\n#PowerBI #Hiring #DubaiJobs #DataAnalytics #BusinessIntelligence #SQL #MicrosoftFabric Centena Group",
+   "emails": [
+    "parthiban.moorthy@centena.com"
+   ]
+  },
+  {
+   "linkedinUrl": "https://www.linkedin.com/posts/singhshakshi32_hiring-qaanalyst-qualityassurance-share-7526687261007204352-d-9C",
+   "search_title": "#hiring #qaanalyst #qualityassurance #softwaretesting # ...",
+   "snippet": "🚀 WE ARE HIRING | QA ANALYST | DUBAI, UAE We are looking for an experienced QA Analyst to join our team for an exciting onsite opportunity in Dubai. 📍 Location: Dubai, UAE 💼 Experience: 4 ...",
+   "query": "linkedin.com/posts hiring reporting analyst dubai",
+   "engine": "bing",
+   "page_status": 200,
+   "postedAt": "2026-11-12T16:48:02.454Z",
+   "author": "Sakshi S",
+   "content": "🚀 WE ARE HIRING | QA ANALYST | DUBAI, UAE\nWe are looking for an experienced QA Analyst to join our team for an exciting onsite opportunity in Dubai.\n📍 Location: Dubai, UAE\n💼 Experience: 4+ Years\n🏢 Work Mode: Onsite\nKey Requirements:\n4+ years of experience in Software Quality Assurance / Testing.\nStrong understanding of SDLC and STLC.\nExperience in preparing and executing test cases and test scenarios.\nKnowledge of Functional, Regression, Integration and UAT Testing.\nAbility to identify, document, track and report defects.\nGood understanding of defect management and QA processes.\nStrong analytical and communication skills.\n📩 Interested candidates: Share your updated resume via DM or email.\nKnow someone who might be a good fit? Feel free to tag or refer them!\n#Hiring #QAAnalyst #QualityAssurance #SoftwareTesting #ManualTesting #AutomationTesting #DubaiJobs #UAEJobs #GulfJobs #ITJobs #TestingJobs #ImmediateHiring #CareerOpportunities #Recruitment #DubaiHiring",
+   "emails": []
+  }
+ ]
 }
