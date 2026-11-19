@@ -1,9 +1,9 @@
 {
- "found_before_age_filter": 34,
- "generated_at_utc": "2026-11-19T03:57:41+00:00",
+ "found_before_age_filter": 27,
+ "generated_at_utc": "2026-11-19T14:01:44+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 2,
+ "total": 1,
  "with_email": 1,
  "search_log": [
   {
@@ -15,7 +15,7 @@
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 2
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -30,8 +30,7 @@
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -48,7 +47,7 @@
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 3
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
@@ -80,13 +79,13 @@
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 6
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -96,8 +95,7 @@
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -114,13 +112,13 @@
    "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 5
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 5
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
@@ -152,7 +150,7 @@
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 2
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
@@ -162,64 +160,64 @@
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts business analyst UAE send CV email",
+   "engine": "bing",
    "results": 7,
    "posts": 0
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 2
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
    "posts": 0
   },
   {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -232,59 +230,56 @@
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "bing",
    "results": 7,
    "posts": 2
   },
   {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 3
-  },
-  {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
    "results": 7,
-   "posts": 3
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -294,7 +289,8 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -326,40 +322,29 @@
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
-   "posts": 0
+   "posts": 1
   }
  ],
  "posts": [
   {
-   "linkedinUrl": "https://www.linkedin.com/posts/rashidnaseem_power-bi-developer-sharjah-uae-activity-7528451841341337600-p7eY",
-   "search_title": "Power BI Developer – Sharjah, UAE | Rashid Naseem - LinkedIn",
-   "snippet": "- Immediate joiners preferred. 📩 **How to Apply:** 🚫 Do NOT send CVs via LinkedIn DM Email your updated CV to: https://lnkd.in/dxaC63rZ 📌 Subject: Application for a position – Power BI ...",
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "yahoo",
-   "page_status": 200,
-   "postedAt": "2026-11-17T13:39:50.845Z",
-   "author": "Rashid Naseem",
-   "content": "We Are Hiring – Power BI | Sharjah, UAE\n📍 Location: Sharjah, UAE  \n💼 Experience: 3–4 Years  \n🏢 Work Mode: Onsite  \n⚡ Joining: Immediate Joiner  \n💰 Salary: AED 6,000–7,000 per month\nWe are looking for an experienced Power BI professional for an onsite opportunity in Sharjah.\n**Key Requirements:**\n- 3–4 years of relevant experience.\n- Experience with Power BI.\n- Immediate joiners preferred.\n📩 **How to Apply:**\n🚫 Do NOT send CVs via LinkedIn DM  \n✅ Email your updated CV to: https://lnkd.in/dxaC63rZ \n📌 Subject: Application for a position – Power BI – Sharjah – Onsite\n👉 For fast job updates, join our WhatsApp channel here:\nhttps://lnkd.in/dGnX7Ggc\n#Hiring #Hiringalert #Jobs #Careers #Recrenza #CareerGrowth #ProfessionalJobs",
-   "emails": []
-  },
-  {
-   "linkedinUrl": "https://www.linkedin.com/posts/avocadotechnologyconsultants_were-hiring-business-development-executive-activity-7528362931445719040-bHID",
-   "search_title": "Avocado Technology Consultants Co. LLC’s Post - LinkedIn",
-   "snippet": "How to Apply If you are available to join immediately and ready to build a strong sales pipeline, send your updated CV to contactus@avocadoconsulting.ae with the subject line \"Odoo BDE Resume\"",
-   "query": "linkedin.com/posts odoo UAE send CV email",
+   "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7528328782949179392/",
+   "search_title": "#alghandi #hiring #serviceengineer #networkengineer # ...",
+   "snippet": "We’re hiring at Al Ghandi Electrical & Automation LLC! 📍 Abu Dhabi, UAE | 8–10 years of relevant experience 🔵Service Engineer – Industrial Automation • PLC, VFD and electrical ...",
+   "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "bing",
    "page_status": 200,
-   "postedAt": "2026-11-17T07:46:33.075Z",
-   "author": "Avocado Technology Consultants Co. LLC",
-   "content": "We’re Hiring: Business Development Executive, Odoo ERP Sales (Immediate Joiner)\n\nAre you a driven B2B salesperson who knows how to connect with business owners and spot operational bottlenecks? We are looking for a Business Development Executive to help us generate qualified leads and expand our Odoo ERP client base in the UAE.\nIf you understand how businesses operate, thrive on outbound prospecting, and want high earning potential selling one of the world’s fastest-growing all-in-one business software suites, we want to hear from you.\n\nKey Responsibilities\nOutbound Lead Generation: Proactively identify, prospect, and reach out to UAE decision-makers (Founders, CEOs, General Managers, Operations Heads) via LinkedIn, cold calling, email, and networking.\nDiscovery and Qualification: Conduct initial discovery calls to understand prospects' current pain points across Accounting, Inventory, CRM, Sales, or Manufacturing.\nDemo Coordination: Book qualified product demonstrations and collaborate closely with our technical and functional consultants to present tailored Odoo solutions.\nPipeline Management: Maintain accurate records of leads, follow-ups, and deal progress in our CRM.\n\nRequirements and Preferences\nVisa and Availability: Candidates on Own Visa (Family, Freelance, or Spouse visa) and Immediate Joiners will be given strong preference.\nSales Experience: 1 to 2+ years of proven experience in B2B lead generation, SaaS sales, IT solutions, or software selling in the UAE.\nERP Familiarity: Prior experience selling Odoo or other ERPs (Zoho, SAP, Microsoft Dynamics, Tally) is a strong advantage, though full Odoo product training will be provided.\nCommunication: Fluent in English with strong presentation and negotiation skills. Arabic is a plus.\nMindset: Self-motivated, target-oriented, and comfortable working in a fast-paced growth environment.\n\nWhat We Offer\nSalary: As per candidate experience and discussion, plus attractive commission on closed deals.\nLocation: Dubai, UAE\nSupport: Full pre-sales, technical demo, and implementation backing from an experienced Odoo team.\n\nHow to Apply\nIf you are available to join immediately and ready to build a strong sales pipeline, send your updated CV to contactus@avocadoconsulting.ae with the subject line \"Odoo BDE Resume\"",
+   "postedAt": "2026-11-17T05:30:51.717Z",
+   "author": "Al Ghandi Electrical & Automation LLC",
+   "content": "We’re hiring at Al Ghandi Electrical & Automation LLC!\n\n📍 Abu Dhabi, UAE | 8–10 years of relevant experience\n\n🔵Service Engineer – Industrial Automation\n• PLC, VFD and electrical troubleshooting\n• Low-voltage drive commissioning\n• Installed-base and spare-parts assessments\n\n🔵Network Engineer – Industrial Networking & IIoT\n• EtherNet/IP, TCP/IP and VLAN experience\n• Managed switches and network troubleshooting\n• OT network assessments and security\n\nFor full job descriptions check our careers page-\nhttps://lnkd.in/dEnpT-ei \n\nInterested candidates can\n📩 Send your updated CV to careers@alghandiea.com\nPlease mention the position you are applying for in the email subject line.\n#AlGhandi #Hiring #ServiceEngineer #NetworkEngineer #IndustrialAutomation #AbuDhabiJobs #jobs",
    "emails": [
-    "contactus@avocadoconsulting.ae"
+    "careers@alghandiea.com"
    ]
   }
  ]
