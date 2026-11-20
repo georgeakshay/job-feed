@@ -1,10 +1,10 @@
 {
- "found_before_age_filter": 24,
- "generated_at_utc": "2026-11-20T03:49:35+00:00",
+ "found_before_age_filter": 13,
+ "generated_at_utc": "2026-11-20T13:42:54+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
- "total": 3,
- "with_email": 2,
+ "total": 1,
+ "with_email": 1,
  "search_log": [
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
@@ -15,13 +15,12 @@
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 1
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -48,14 +47,13 @@
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 2
+   "posts": 3
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -65,8 +63,7 @@
   {
    "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 7
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -81,14 +78,12 @@
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 6
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 6
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -99,12 +94,13 @@
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "bing",
    "results": 7,
-   "posts": 2
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts hiring odoo dubai",
@@ -151,8 +147,7 @@
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
@@ -162,13 +157,13 @@
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
@@ -179,13 +174,12 @@
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
-   "posts": 1
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
@@ -228,14 +222,12 @@
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts power bi UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
@@ -244,29 +236,31 @@
   },
   {
    "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
    "posts": 0
   },
   {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
    "query": "linkedin.com/posts reporting analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
@@ -277,13 +271,13 @@
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "bing",
    "results": 7,
-   "posts": 1
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
    "results": 7,
-   "posts": 1
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
@@ -293,13 +287,13 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
@@ -315,8 +309,7 @@
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
@@ -327,53 +320,28 @@
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "bing",
    "results": 7,
-   "posts": 1
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   }
  ],
  "posts": [
   {
-   "linkedinUrl": "https://www.linkedin.com/posts/manisha-s-b56174141_hiring-powerbi-powerbianalyst-activity-7529055098908450816-JphY",
+   "linkedinUrl": "https://www.linkedin.com/posts/abhijeet-bhalerao-4647052a_hiring-powerbi-powerbianalyst-activity-7528776204703936512-rI9E",
    "search_title": "#hiring #powerbi #powerbianalyst #powerbideveloper - LinkedIn",
    "snippet": "Hi All, 📢 We’re Hiring: Senior Power BI Analyst – Dubai (Onsite) Accely is looking for an experienced Senior Power BI Analyst for a Dubai onsite engagement, supporting the Dubai time zone ...",
-   "query": "linkedin.com/posts hiring power bi dubai",
-   "engine": "bing",
+   "query": "linkedin.com/posts hiring BI analyst dubai",
+   "engine": "yahoo",
    "page_status": 200,
-   "postedAt": "2026-11-19T05:36:58.657Z",
-   "author": "Manisha S",
-   "content": "Hi All, \n   \n📢 We’re Hiring: Senior Power BI Analyst – Dubai (Onsite)\n\nAccely is looking for an experienced Senior Power BI Analyst for a Dubai onsite engagement, supporting the Dubai time zone.\n \n 🔹 Role: Power BI Analyst\n 🔹 Work Mode: Dubai – Onsite\n 🔹 Time Zone: Dubai, UAE\n \nMandatory requirements\nWe are seeking a skilled and detail-oriented Power BI Analyst to join our data and analytics Marketing team. The ideal candidate will be responsible for designing, developing, and maintaining interactive dashboards and reports that transform raw data into actionable insights. This role requires a blend of technical proficiency, business acumen, and user-centric design thinking.\n  \nRequired Skills\n  \nProficiency      in Power BI Desktop, Power BI Service, DAX, and Power      Query\nExperience      with Azure, SharePoint, and Databricks\nStrong      understanding of data visualization principles and UX/UI      design\n  \nKey Responsibilities\nDashboard & Report Development: Design and build visually compelling, interactive dashboards and reports using Power BI Desktop and Power BI Service\nData Modeling: Develop and maintain robust data models using star and snowflake schema patterns; implement calculated columns and measures using DAX\nFront-End Optimization: Ensure optimal performance and usability of dashboards,      including layout design, drill-through actions, bookmarks, and custom visuals.\nData Integration: Connect and transform data from multiple sources (Databricks, SQL Server, Excel, APIs, etc.) using Power Query and ETL      processes.\nTimesheet: Fulfilled the MBRF standard timesheet with the main activities per day, to      share this for invoice proposal.\n\nPreferred Qualifications & knowledge\n  \nPowerBI Microsoft Certified: Data Analyst Associate or equivalent certification\nUnderstanding of sales and commercial performance metrics.\nFamiliarity with market share and retail analytics concepts.\nStrong analytical and problem-solving skills.\nEffective communication.\nExposure to Nielsen, EPOS, or FMCG analytics is an advantage.\n  \n#Hiring #PowerBI #PowerBIAnalyst #PowerBIDeveloper #SeniorConsultant #DataAnalytics #Accely #Dubai\n  \n 📩 Interested candidates: Please share your updated CV or connect with us to discuss this opportunity.\n \n abhijeet.b@accely.com\n \n#hiring",
+   "postedAt": "2026-11-18T11:08:45.098Z",
+   "author": "Abhijeet Bhalerao",
+   "content": "Hi All, \n   \n📢 We’re Hiring: Senior Power BI Analyst – Dubai (Onsite)\n\nAccely is looking for an experienced Senior Power BI Analyst for a Dubai onsite engagement, supporting the Dubai time zone.\n \n 🔹 Role: Power BI Analyst\n 🔹 Work Mode: Dubai – Onsite\n 🔹 Time Zone: Dubai, UAE\n \n Mandatory requirements\n \n We are seeking a skilled and detail-oriented Power BI Analyst to join our data and analytics Marketing team. The ideal candidate will be responsible for designing, developing, and maintaining interactive dashboards and reports that transform raw data into actionable insights. This role requires a blend of technical proficiency, business acumen, and user-centric design thinking.\n  \nRequired Skills\n  \nProficiency      in Power BI Desktop, Power BI Service, DAX, and Power      Query\nExperience      with Azure, SharePoint, and Databricks\nStrong      understanding of data visualization principles and UX/UI      design\n  \n  \nKey Responsibilities\n  \nDashboard      & Report Development: Design and build visually compelling,      interactive dashboards and reports using Power BI Desktop and Power BI      Service\nData      Modeling: Develop and maintain robust data models using star and      snowflake schema patterns; implement calculated columns and measures using      DAX\nFront-End      Optimization: Ensure optimal performance and usability of dashboards,      including layout design, drill-through actions, bookmarks, and custom      visuals.\nData      Integration: Connect and transform data from multiple sources      (Databricks, SQL Server, Excel, APIs, etc.) using Power Query and ETL      processes.\nTimesheet:      Fulfilled the MBRF standard timesheet with the main activities per day, to      share this for invoice proposal.\n  \n  \nPreferred Qualifications & knowledge\n  \nPowerBI      Microsoft Certified: Data Analyst Associate or equivalent certification\nUnderstanding      of sales and commercial performance metrics.\nFamiliarity      with market share and retail analytics concepts.\nStrong      analytical and problem-solving skills.\nEffective      communication.\nExposure      to Nielsen, EPOS, or FMCG analytics is an advantage.\n  \n \n  \n#Hiring #PowerBI #PowerBIAnalyst #PowerBIDeveloper #SeniorConsultant #DataAnalytics#Accely#Dubai\n  \n\n 📩 Interested candidates: Please share your updated CV or connect with us to discuss this opportunity.\n \n abhijeet.b@accely.com\n \n Regards, \n Abhijeet Bhalerao",
    "emails": [
     "abhijeet.b@accely.com"
-   ]
-  },
-  {
-   "linkedinUrl": "https://www.linkedin.com/posts/rashidnaseem_senior-specialist-power-bi-developer-activity-7528313356273840128-lwfS",
-   "search_title": "Senior Specialist – Power BI Developer / Reporting | Abu ...",
-   "snippet": "- Preference for candidates currently based in the UAE. 📩 How to Apply: Send your updated CV to: https://lnkd.in/dztk4v-G 🚫 Do NOT send CVs via LinkedIn DM Click on the job link Click Apply ...",
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "bing",
-   "page_status": 200,
-   "postedAt": "2026-11-17T04:29:33.432Z",
-   "author": "Rashid Naseem",
-   "content": "We Are Hiring – Senior Specialist – Power BI Developer / Reporting | Abu Dhabi, UAE\n🏢 Recruitment Company: Halian  \n📍 Location: Abu Dhabi, UAE  \n⚡ Availability: Immediate Joiners Only\nA leading enterprise environment in Abu Dhabi is looking for an experienced Senior Specialist – Power BI Developer / Reporting.\n🔹 Key Technical Skills:\n- Power BI Development\n- DAX & Power Query\n- SQL\n- Data Modelling & Semantic Models\n- Dashboard Design & Executive Reporting\n- Data Integration\n- Reporting Governance\n- KPI & Management Reporting\n🔹 Preferred Experience:\n- Large-scale enterprise reporting environments.\n- Reporting governance frameworks.\n- Risk and compliance reporting.\n- Banking and financial services.\n⚠️ Important:\n- Immediately available candidates ONLY.\n- Preference for candidates currently based in the UAE.\n📩 How to Apply:\nSend your updated CV to:\nhttps://lnkd.in/dztk4v-G\n🚫 Do NOT send CVs via LinkedIn DM  \n✅ Click on the job link  \n✅ Click Apply Now on the website  \n📧 You will see the official HR email  \n📩 Send your CV directly to the HR email provided.\n👉 For fast job updates, join our WhatsApp channel here:\nhttps://lnkd.in/dGnX7Ggc\n#Hiring #Hiringalert #Jobs #Careers #Recrenza #CareerGrowth #ProfessionalJobs",
-   "emails": []
-  },
-  {
-   "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:share:7528328782949179392/",
-   "search_title": "#alghandi #hiring #serviceengineer #networkengineer # ...",
-   "snippet": "We’re hiring at Al Ghandi Electrical & Automation LLC! 📍 Abu Dhabi, UAE | 8–10 years of relevant experience 🔵Service Engineer – Industrial Automation • PLC, VFD and electrical ...",
-   "query": "linkedin.com/posts automation analyst UAE send CV email",
-   "engine": "bing",
-   "page_status": 200,
-   "postedAt": "2026-11-17T05:30:51.717Z",
-   "author": "Al Ghandi Electrical & Automation LLC",
-   "content": "We’re hiring at Al Ghandi Electrical & Automation LLC!\n\n📍 Abu Dhabi, UAE | 8–10 years of relevant experience\n\n🔵Service Engineer – Industrial Automation\n• PLC, VFD and electrical troubleshooting\n• Low-voltage drive commissioning\n• Installed-base and spare-parts assessments\n\n🔵Network Engineer – Industrial Networking & IIoT\n• EtherNet/IP, TCP/IP and VLAN experience\n• Managed switches and network troubleshooting\n• OT network assessments and security\n\nFor full job descriptions check our careers page-\nhttps://lnkd.in/dEnpT-ei \n\nInterested candidates can\n📩 Send your updated CV to careers@alghandiea.com\nPlease mention the position you are applying for in the email subject line.\n#AlGhandi #Hiring #ServiceEngineer #NetworkEngineer #IndustrialAutomation #AbuDhabiJobs #jobs",
-   "emails": [
-    "careers@alghandiea.com"
    ]
   }
  ]
