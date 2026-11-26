@@ -1,6 +1,6 @@
 {
- "found_before_age_filter": 26,
- "generated_at_utc": "2026-11-26T14:35:17+00:00",
+ "found_before_age_filter": 21,
+ "generated_at_utc": "2026-11-26T23:26:15+00:00",
  "source": "duckduckgo",
  "max_age_days": 7,
  "total": 1,
@@ -19,8 +19,7 @@
   {
    "query": "linkedin.com/posts hiring business analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 2
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -30,8 +29,7 @@
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring data analyst dubai",
@@ -52,8 +50,7 @@
   {
    "query": "linkedin.com/posts hiring BI analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 3
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -63,8 +60,7 @@
   {
    "query": "linkedin.com/posts hiring power bi dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 3
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring power bi dubai",
@@ -79,13 +75,14 @@
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 7
   },
   {
    "query": "linkedin.com/posts hiring MIS executive dubai",
    "engine": "yahoo",
    "results": 7,
-   "posts": 2
+   "posts": 7
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -95,8 +92,7 @@
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
    "engine": "bing",
-   "results": 7,
-   "posts": 1
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring reporting analyst dubai",
@@ -118,7 +114,8 @@
   {
    "query": "linkedin.com/posts hiring odoo dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 6
   },
   {
    "query": "linkedin.com/posts hiring revenue analyst dubai",
@@ -145,13 +142,13 @@
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts hiring business systems analyst dubai",
    "engine": "yahoo",
-   "results": 7,
-   "posts": 0
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
@@ -167,7 +164,8 @@
   {
    "query": "linkedin.com/posts hiring automation analyst dubai",
    "engine": "yahoo",
-   "error": "No results found."
+   "results": 7,
+   "posts": 0
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
@@ -177,7 +175,8 @@
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
+   "results": 7,
+   "posts": 1
   },
   {
    "query": "linkedin.com/posts business analyst UAE send CV email",
@@ -191,98 +190,96 @@
   },
   {
    "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 1
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts BI analyst UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts power bi UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "bing",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts MIS executive UAE send CV email",
+   "engine": "yahoo",
+   "results": 7,
+   "posts": 0
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "bing",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts reporting analyst UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
+   "engine": "duckduckgo",
+   "error": "No results found."
+  },
+  {
+   "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "bing",
    "results": 7,
    "posts": 2
   },
   {
-   "query": "linkedin.com/posts data analyst UAE send CV email",
+   "query": "linkedin.com/posts odoo UAE send CV email",
    "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts BI analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "bing",
    "results": 7,
    "posts": 2
   },
   {
-   "query": "linkedin.com/posts power bi UAE send CV email",
-   "engine": "yahoo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "bing",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts MIS executive UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts reporting analyst UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 1
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "duckduckgo",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts odoo UAE send CV email",
-   "engine": "yahoo",
-   "results": 7,
-   "posts": 3
-  },
-  {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -290,14 +287,13 @@
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "bing",
-   "results": 7,
-   "posts": 3
+   "error": "No results found."
   },
   {
    "query": "linkedin.com/posts revenue analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
-   "posts": 3
+   "posts": 2
   },
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
@@ -307,15 +303,15 @@
   {
    "query": "linkedin.com/posts business systems analyst UAE send CV email",
    "engine": "bing",
-   "error": "No results found."
-  },
-  {
-   "query": "linkedin.com/posts business systems analyst UAE send CV email",
-   "engine": "yahoo",
    "results": 7,
    "posts": 0
   },
   {
+   "query": "linkedin.com/posts business systems analyst UAE send CV email",
+   "engine": "yahoo",
+   "error": "No results found."
+  },
+  {
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "duckduckgo",
    "error": "No results found."
@@ -329,22 +325,22 @@
    "query": "linkedin.com/posts automation analyst UAE send CV email",
    "engine": "yahoo",
    "results": 7,
-   "posts": 1
+   "posts": 0
   }
  ],
  "posts": [
   {
-   "linkedinUrl": "https://www.linkedin.com/posts/taomar_were-hiring-investment-analyst-dubai-share-7531365614322364417-Zizc",
-   "search_title": "We're hiring: Investment Analyst – Dubai ... - LinkedIn",
-   "snippet": "🚨 We're hiring: Investment Analyst – Dubai, UAE 💼 Role: Investment Analyst 📍 Location: Dubai, UAE 💰 Salary: AED 9,500 to 12,500 per month 🎓 Experience: 2+ years ⏰ Last date to ...",
-   "query": "linkedin.com/posts hiring business analyst dubai",
-   "engine": "yahoo",
+   "linkedinUrl": "https://www.linkedin.com/posts/sandra-serag_hiring-mis-managementinformationsystems-share-7531686065527754752-6c42",
+   "search_title": "#hiring #mis #managementinformationsystems #dataanalysis # ...",
+   "snippet": "We Are Hiring: MIS Executive | Al Ain We are currently looking for an experienced MIS Executive to join our team in Dubai. Requirements: -Minimum 2 years of experience in MIS, Data Analysis ...",
+   "query": "linkedin.com/posts hiring MIS executive dubai",
+   "engine": "bing",
    "page_status": 200,
-   "postedAt": "2026-11-25T14:38:08.990Z",
-   "author": "Tamer Omar, MBA, PMP",
-   "content": "🚨 We're hiring: Investment Analyst – Dubai, UAE\n\n💼 Role: Investment Analyst\n📍 Location: Dubai, UAE\n💰 Salary: AED 9,500 to 12,500 per month\n🎓 Experience: 2+ years\n⏰ Last date to apply: 11 December 2026\n\n📝 Hiring now: an Investment Analyst in Dubai, UAE. If you are organised and reliable, this role is for you.\n\n📌 What you will do:\n• Analyse financial and commercial information\n• Monitor portfolio and transaction updates\n• Support due diligence activities\n• Research investment opportunities and markets\n• Follow company policies and procedures\n\n🎓 What we are looking for:\n• 2+ years of relevant experience\n• Bachelor’s degree in Finance or Business (CA, CMA, ACCA or CPA is a plus)\n• Good knowledge of financial analysis\n• Practical understanding of valuation fundamentals\n• Good time management\n• Team player with a positive attitude\n• Fluent English communication\n\n🌟 A stable, long-term opportunity.\n\n📧 Interested? Send your CV to job@financeinme.com.\n\n♻️ Know someone who would be a great fit? Please repost to help them see it.\n\nPlease never pay money to get a job.\n\n#Hiring #InvestmentAnalyst #UAEJobs #FinanceJobs #AccountingJobs",
+   "postedAt": "2026-11-26T11:51:30.125Z",
+   "author": "Sandra Serag",
+   "content": "We Are Hiring: MIS Executive | Al Ain\n\nWe are currently looking for an experienced MIS Executive to join our team in Dubai.\n\nRequirements:\n-Minimum 2 years of experience in MIS, Data Analysis, Reporting, or a similar role.\n-Bilingual in Arabic and English is a MUST.\n-Advanced proficiency in Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Dashboards).\n-Experience in data management, reporting, and performance tracking.\n-Strong analytical and problem-solving skills with high attention to detail.\n-Ability to interpret data and provide actionable insights.\n-Experience with Power BI or other reporting tools is an added advantage.\n-Excellent communication and stakeholder management skills.\n-Ability to work in a fast-paced environment and manage multiple priorities.\n\nLocation: Al Ain\n\nONLY APPLICATIONS IN UAE WILL BE CONSIDERED\n\nIf you meet the above criteria and are interested in this opportunity, please send your CV to: sandramohamed.serag@teleperformance.com\n\nKindly note that if you are not contacted, your application has not passed the CV screening process.\n\n#Hiring #MIS #ManagementInformationSystems #DataAnalysis #Reporting #PowerBI #Excel #DubaiJobs #CareerOpportunity #HiringUAE #BusinessIntelligence #DataManagement",
    "emails": [
-    "job@financeinme.com"
+    "sandramohamed.serag@teleperformance.com"
    ]
   }
  ]
